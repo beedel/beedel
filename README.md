@@ -8,6 +8,8 @@ I'm a Software Engineering student at [The University of Glasgow](https://gla.ac
 
 :heart: Passionate about clean code practices.
 
+### :man_technologist: This week:
+
 <!--START_SECTION:waka-->
 ```text
 PHP      5 hrs 15 mins   ██████████████████████░░░   87.90 % 
