@@ -9,4 +9,11 @@ I'm a Software Engineering student at [The University of Glasgow](https://gla.ac
 :heart: Passionate about clean code practices.
 
 <!--START_SECTION:waka-->
+```text
+PHP      5 hrs 15 mins   ██████████████████████░░░   87.90 % 
+Bash     22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+JSON     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+SQL      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+```
 <!--END_SECTION:waka-->
