@@ -12,10 +12,10 @@ I'm a Software Engineering student at [The University of Glasgow](https://gla.ac
 
 <!--START_SECTION:waka-->
 ```text
-PHP        4 hrs 14 mins   ███████████████▒░░░░░░░░░   61.67 % 
-Python     1 hr 11 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Markdown   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Bash       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-JSON       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+PHP          10 hrs 22 mins  ███████████████░░░░░░░░░░   59.53 % 
+SQL          3 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Python       2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Markdown     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
