@@ -2,11 +2,7 @@
 
 I'm a 3rd year Software Engineering student at [The University of Glasgow](https://gla.ac.uk).
 
-   🔭 Currently working with Symfony 5.
-
-   :bookmark_tabs: My main experience lies in Python 3, Django 3, and core Java.
-
-   :heart: Passionate about clean code practices.
+   :bookmark_tabs: My main experience lies in Python 3, Django 3, PHP, Symfony and core Java.
 
 ### :man_technologist: This week:
 
