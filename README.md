@@ -1,6 +1,6 @@
 ### Hi, I'm Tomas! 👋
 
-I'm a 3rd year Software Engineering student at [The University of Glasgow](https://gla.ac.uk).
+I'm a 4th year Software Engineering student at [The University of Glasgow](https://gla.ac.uk).
 
    :bookmark_tabs: My main experience lies in Python 3, Django 3, PHP, Symfony and core Java.
 
