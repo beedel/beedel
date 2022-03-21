@@ -2,7 +2,7 @@
 
 I'm a 4th year Software Engineering student at [The University of Glasgow](https://gla.ac.uk).
 
-   :bookmark_tabs: My main experience lies in Python 3, Django 3, PHP, Symfony and core Java.
+   :bookmark_tabs: My main experience lies in PHP 8, Symfony 5, Python 3, Django 3, and core Java.
 
 ### :man_technologist: This week:
 
