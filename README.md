@@ -2,8 +2,6 @@
 
 I'm a 5th year Software Engineering student at <a href="https://www.gla.ac.uk/explore/awardsandrankings/" target="_blank">The University of Glasgow</a>.
 
-   :bookmark_tabs: My main experience lies in PHP 8, Symfony 5, Python 3, and Django 3.
-
 ### :man_technologist: This week:
 
 <!--START_SECTION:waka-->
